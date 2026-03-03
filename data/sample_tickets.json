@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "text": "My laptop won't turn on after update. Model XPS 15.",
+    "expected_category": "Technical"
+  },
+  {
+    "id": 2,
+    "text": "I was charged twice for my subscription.",
+    "expected_category": "Billing"
+  },
+  {
+    "id": 3,
+    "text": "What are your weekend store hours?",
+    "expected_category": "General"
+  },
+  {
+    "id": 4,
+    "text": "My order arrived damaged. I want refund.",
+    "expected_category": "Complaint"
+  },
+  {
+    "id": 5,
+    "text": "App keeps crashing after login.",
+    "expected_category": "Technical"
+  },
+  {
+    "id": 6,
+    "text": "Need invoice copy for last month payment.",
+    "expected_category": "Billing"
+  },
+  {
+    "id": 7,
+    "text": "Do you offer student discounts?",
+    "expected_category": "General"
+  },
+  {
+    "id": 8,
+    "text": "Very unhappy with delivery delay.",
+    "expected_category": "Complaint"
+  },
+  {
+    "id": 9,
+    "text": "Keyboard not working properly.",
+    "expected_category": "Technical"
+  },
+  {
+    "id": 10,
+    "text": "Refund not processed yet.",
+    "expected_category": "Billing"
+  },
+  {
+    "id": 11,
+    "text": "How to reset my password?",
+    "expected_category": "General"
+  },
+  {
+    "id": 12,
+    "text": "Received wrong product.",
+    "expected_category": "Complaint"
+  },
+  {
+    "id": 13,
+    "text": "Screen flickering issue.",
+    "expected_category": "Technical"
+  },
+  {
+    "id": 14,
+    "text": "Why was extra tax charged?",
+    "expected_category": "Billing"
+  },
+  {
+    "id": 15,
+    "text": "Extremely poor customer service experience.",
+    "expected_category": "Complaint"
+  }
+]
